@@ -5,10 +5,10 @@ imports:
   version: 52c137b4b19acaf8cde1d9e0579d928519918919
   subpackages:
   - github.com\elazarl\goproxy
-- name: github.com/Sirupsen/logrus
+- name: github.com/sirupsen/logrus
   version: f3cfb454f4c209e6668c95216c4744b8fddb2356
   subpackages:
-  - github.com\Sirupsen\logrus
+  - github.com\sirupsen\logrus
 - name: golang.org/x/sys
   version: 62bee037599929a6e9146f29d10dd5208c43507d
   subpackages:
